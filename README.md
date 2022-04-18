@@ -28,7 +28,7 @@ Mobile view
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-ByhIQNBNc](https://www.frontendmentor.io/solutions/qr-code-component-ByhIQNBNc)
-- Live Site URL: [https://qr-code.davequah.com/](https://qr-code.davequah.com/)
+- Live Site URL: [https://Milleus.github.io/fm-qr-code/](https://Milleus.github.io/fm-qr-code/)
 
 ## My process
 
